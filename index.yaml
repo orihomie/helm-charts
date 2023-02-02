@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  domain-exporter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-02T09:57:10.873041601Z"
+    description: A Helm chart for domain_exporter
+    digest: 05d1b7350d91ab5e0db8a68dd745b8f403abb3aca9a92f61c2deb573b8aecb5b
+    name: domain-exporter
+    type: application
+    urls:
+    - https://github.com/orihomie/domain_exporter/releases/download/domain-exporter-0.1.0/domain-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-02T09:57:10.873050501Z"
